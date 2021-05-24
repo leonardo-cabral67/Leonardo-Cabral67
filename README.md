@@ -8,7 +8,7 @@
 
 :books: I’m currently learning HTML, CSS, JavaScript, React and React Native
 
-:outbox_tray: 2021 Goals: Learn more and more
+:outbox_tray: 2021 Goals: Learn as much as i can
 
 ## About me
 
