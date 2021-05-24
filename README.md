@@ -1,6 +1,6 @@
 # Welcome!
 
-## I'm Leonardo Cabral !
+## I'm Leonardo Cabral!
 
 :computer: I'm Front-End Developer!
 
@@ -8,13 +8,13 @@
 
 :books: I’m currently learning HTML, CSS, JavaScript, React and React Native
 
-:outbox_tray: 2021 Goals: Learn as much as i can
+:outbox_tray: 2021 Goals: Learn as much as i can and get experience!
 
 ## About me
 
-https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= https://www.linkedin.com/in/leonardo-cabral-314786211/
+[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link= LINK_LINKEDIN)] https://www.linkedin.com/in/leonardo-cabral-314786211/
 
-<img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white">
+<code><img height= "20"src= "https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"></code>
 
 - Thanks for visiting.
 
