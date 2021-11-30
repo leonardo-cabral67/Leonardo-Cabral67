@@ -4,7 +4,7 @@
 
 :computer: I'm studying front end web development 
 
-👨‍🎓: I'm a student at Kenzie Academy 
+👨‍🎓 I'm a student at Kenzie Academy 
 
 :house_with_garden: I’m from Brazil.
 
