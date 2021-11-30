@@ -2,7 +2,9 @@
 
 ## I'm Leonardo Cabral!
 
-:computer: I'm a Front-End Developer!
+:computer: I'm studying front end web development 
+
+👨‍🎓: I'm a student at Kenzie Academy 
 
 :house_with_garden: I’m from Brazil.
 
