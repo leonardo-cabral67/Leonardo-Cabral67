@@ -4,7 +4,7 @@
 
 :computer: I'm studying front end web development 
 
-👨‍🎓 I'm a student at Kenzie Academy 
+👨‍🎓 I studied at Kenzie academy Brazil and i have completed a 1000 hour course about front end development
 
 :house_with_garden: I’m from Brazil.
 
