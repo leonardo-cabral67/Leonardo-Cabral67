@@ -10,6 +10,9 @@
 
 :books: I’m currently learning HTML, CSS and JavaScript. You can stay abreast about what i´m learning in my repository: [Today i learned](https://github.com/Leonardo-Cabral67/til-today-i-learned)
 
+You can see my portfolio at 
+<a href="https://www.google.com">Link</a>
+
 📞 To get in touch with me: 
     email: leonardoleocabral@outlook.com
     Linkedin: https://www.linkedin.com/in/leonardo-cabral67 
