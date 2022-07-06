@@ -8,8 +8,7 @@
 
 :house_with_garden: I’m from Brazil.
 
-:books: I’m currently learning HTML, CSS and JavaScript. You can stay abreast about what i´m learning in my repository: [Today i learned](https://github.com/Leonardo-Cabral67/til-today-i-learned)
-
+:books: My knowledge: HTML, CSS, JavaScript, React, Redux, Context API, JWT auth, API REST.
 🧐 You can see my portfolio at 
 <a href="https://leonardo-portfolio.vercel.app/">Portfolio</a>
 
