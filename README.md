@@ -2,7 +2,7 @@
 
 
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/leonardo-cabral67">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardo-cabral67&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardo-cabral67&layout=compact&langs_count=7&theme=dracula"/>
