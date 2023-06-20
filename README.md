@@ -1,4 +1,4 @@
-## Hello! My name is Leonardo cabral and i am a Front-end Developer
+## Hello! My name is Leonardo cabral and i am a Software Developer
 
 
 
